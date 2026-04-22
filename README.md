@@ -1,1 +1,1 @@
-# my-business-pwa
+# business-autopilot-pwa
